@@ -10,7 +10,7 @@ about the Main_Journal_Conference's relevant date
 | Year  | Title | Publication | Method | Field | Novelty | date |
 | :---:  | :---:  | :---:  | :---:  |:---:  | :---:  | :---:  |
 | 2018  | End-to-End Blind Image Quality Assessment Using Deep Neural Networks  | TIP  | CNN  | Quality  | 1 Multi-task; 2 GDN loss | 01.01  |
-| 2018  | Salient Object Detection Driven by Fixation Prediction | CVPR  | convLSTM  | Salient Object Detection | 1 Detect salient object from fixation maps | 07.08 |
+| 2018  | Salient Object Detection Driven by Fixation Prediction | CVPR  | convLSTM  | Salient Object Detection | 1 Detect salient object from fixation maps; 2 Multi-task |  07.08 |
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 
 
