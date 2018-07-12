@@ -15,6 +15,7 @@ about the Main_Journal_Conference's relevant date
 | 2018  | A Memory Network Apporach for Story-based Temporal Summarization of 360 video  | CVPR | Memory Network,CNN  | Video summarization  | 1 Memory Network; 2 Past memory and future memory | 07.09-1 |
 | 2018  | Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model | TIP  | convolutional LSTM | Saliency Detetion | 1 Attentive convLSTM; 2 Learned prior; 3 Dilated CNN; 4 Multi Loss | 07.09-2 |
 | 2012  | Head and eye gaze dynamics during visual attention shifts in complex environments  | Journal of Vision  | SVM  | Behavior analysis | Head prior to Eye in different conditions | 07.10-1 |
+| 2015 | Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting  | nips  | ConvLSTM | Precipitation Nowcasting | ConvLSTM(creator) | 07.12-1 |
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 
 
