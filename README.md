@@ -18,6 +18,7 @@ about the Main_Journal_Conference's relevant date
 | 2015 | Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting  | nips  | ConvLSTM | Precipitation Nowcasting | ConvLSTM(creator) | 07.12-1 |
 | 2017  | SaltiNet: Scan-path Prediction on 360 Degree Images using Saliency Volumes  | ICCVW  | CNN  | Scanpath Prediction | 1 Pretrain on multi datasets; 2 valid sampling strategy | 07.12-2 |
 | 2015  | Saliency-based gaze prediction based on head direction | Vision Research | buttom-up | saliency | 1 head-eye coordination analysis; 2 combined model | 07.13-1 |
+| 2015  | Eye-Position Distribution Depending on Head Orientation when Observing Movies on Ultrahigh-Definition Television | Vision Research | None | analysis | 1 head-eye coordination analysis | 07.13-2 |
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 
 
