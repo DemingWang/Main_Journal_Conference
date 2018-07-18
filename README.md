@@ -21,6 +21,7 @@ about the Main_Journal_Conference's relevant date
 | 2015  | Eye-Position Distribution Depending on Head Orientation when Observing Movies on Ultrahigh-Definition Television | Vision Research | None | analysis | 1 head-eye coordination analysis; 2 T-test | 07.13-2 |
 | 2018  | SalNet360: Saliency Maps for omni-directional images with CNN  | SPIC | panoramic image saliency | CNN | 1 use undistored patches; 2 combine sperical coordinates | 0714-2 |
 | 2018  | The Prediction of head and eye movement for 360 degree images | SPIC | Buttom-up and Top-down | Head, Head+eye, Scanpath | 1 multi-plane projection; 2 combine multi-features | 0714-3 |
+| 2018  | Taskonomy: Disentangling Task Transfer Learning  | CVPR(best paper) | AHP/BIP  | Transfer Learning | 1 pairwise tournament matrix; 2 AHP/BIP | 0718-1 |
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 
 
