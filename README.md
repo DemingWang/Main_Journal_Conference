@@ -24,5 +24,6 @@ about the Main_Journal_Conference's relevant date
 | 2018  | Taskonomy: Disentangling Task Transfer Learning | CVPR(best paper) | AHP/BIP  | Transfer Learning | 1 pairwise tournament matrix; 2 AHP/BIP | 0718-1 |
 | 2018 | Multi-task Deep Learning for Prediction Poverty from Satellite Images | AAAI | CNN | Poverty Prediction | 1 Two step approach; 2 multi-taskl; 3 simple precdiction distribution | 0718-2 |
 | 1996 | Using the Future to "Sort out" the present: Rankpop and Multitask Learning for Medical Risk Evaluation | NIPS  | ANN  | Risk Rank | 1 Learning to rank without learning to predict mortality; 2 Learning from the Future with multitask Learning | 0720-1 |
+| 2016 | Cross-stitch Networks for Multi-task Learning | CVPR | CNN  | multi-task(seg and SN, Attri and Detc) | Multi-task Cross-Stitch | 0722-1 |
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 
