@@ -26,5 +26,6 @@ about the Main_Journal_Conference's relevant date
 | 1996 | Using the Future to "Sort out" the present: Rankpop and Multitask Learning for Medical Risk Evaluation | NIPS  | ANN  | Risk Rank | 1 Learning to rank without learning to predict mortality; 2 Learning from the Future with multitask Learning | 0720-1 |
 | 2016 | Cross-stitch Networks for Multi-task Learning | CVPR | CNN  | multi-task(seg and SN, Attri and Detc) | Multi-task Cross-Stitch | 0722-1 |
 | 2018 | Partially Shared Multi-Task Convolutional Neural Network with Local Constraint for Face Attribute Learning | CVPR | Mutli-task ,CNN | Face Attribute Prediction | 1 Partially shared Mutli-task CNN; 2 Local constraint | 0722-1 |
+| 2018  | Gaze Prediction in Dynamic 360° Immersive Videos | CVPR | CNN + LSTM | Gaze Prediction | 1 Saliency Encode + Trajectory Encode; 2 Displacement Prediction | 0722-2 |
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 
