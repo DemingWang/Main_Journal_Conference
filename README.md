@@ -27,5 +27,6 @@ about the Main_Journal_Conference's relevant date
 | 2016 | Cross-stitch Networks for Multi-task Learning | CVPR | CNN  | multi-task(seg and SN, Attri and Detc) | Multi-task Cross-Stitch | 0722-1 |
 | 2018 | Partially Shared Multi-Task Convolutional Neural Network with Local Constraint for Face Attribute Learning | CVPR | Mutli-task ,CNN | Face Attribute Prediction | 1 Partially shared Mutli-task CNN; 2 Local constraint | 0722-1 |
 | 2018  | Gaze Prediction in Dynamic 360° Immersive Videos | CVPR | CNN + LSTM | Gaze Prediction | 1 Saliency Encode + Trajectory Encode; 2 Displacement Prediction | 0722-2 |
+| 2018 | MX-LSTM: mixing tracklets and vislets to jointly forecast trajectories and head pose | CVPR | pedestrains trajectory prediction | MX-LSTM | multi-task: trajectory and head poses | 0723-1 |
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 
