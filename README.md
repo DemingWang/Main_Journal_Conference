@@ -28,5 +28,6 @@ about the Main_Journal_Conference's relevant date
 | 2018 | Partially Shared Multi-Task Convolutional Neural Network with Local Constraint for Face Attribute Learning | CVPR | Mutli-task ,CNN | Face Attribute Prediction | 1 Partially shared Mutli-task CNN; 2 Local constraint | 0722-1 |
 | 2018  | Gaze Prediction in Dynamic 360° Immersive Videos | CVPR | CNN + LSTM | Gaze Prediction | 1 Saliency Encode + Trajectory Encode; 2 Displacement Prediction | 0722-2 |
 | 2018 | MX-LSTM: mixing tracklets and vislets to jointly forecast trajectories and head pose | CVPR | pedestrains trajectory prediction | MX-LSTM | multi-task: trajectory and head poses | 0723-1 |
+| 2018 | Predicting Video Saliency using Object-to-Motion CNN and Two layer Convolutional LSTM | ECCV | Video Saliency | CNN+LSTM | 1 OM-CNN(object subnets: Yolo based; Motion subnet: FlowNet based); 2 2C LSTM, Bayesian dropout  | 0725-1 |
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 
