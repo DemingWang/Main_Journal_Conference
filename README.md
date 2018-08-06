@@ -31,6 +31,7 @@ about the Main_Journal_Conference's relevant date
 | 2018 | Predicting Video Saliency using Object-to-Motion CNN and Two layer Convolutional LSTM | ECCV | Video Saliency | CNN+LSTM | 1 OM-CNN(object subnets: Yolo based; Motion subnet: FlowNet based); 2 2C LSTM, Bayesian dropout  | 0725-1 |
 | 2018 | Predicting Head Movement in Panoramic Video: A Deep Reinforcement Learning Approach | TPAMI | Reinforcement Learining | Head Prediction | Reinforcement Learning | 0731-1 |
 | 2013 | Learning to Predict Gaze in Egocentric Video | CVPR | Random regression forest | Gaze Prediction | combine Head and Hand coordinate(use these features as input) | 0806-1 |
+
 | cell content  | cell content  | cell content  | cell content  | cell content | cell content | cell content |
 | Year  | Title | Publication | Method | Field | Novelty | date |
 
